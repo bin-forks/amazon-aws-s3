@@ -1,0 +1,19 @@
+
+import amazon-aws-runtime
+
+license "Amazon AWS S3 SDK.
+Copyright 2010-2013 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+
+This product includes software developed by
+Amazon Technologies, Inc (http://www.amazon.com/).
+Facebook, Inc (http://www.facebook.com).
+
+**********************
+THIRD PARTY COMPONENTS
+**********************
+This software includes third party software subject to the following copyrights:
+- SBJson.
+- CRC32 calculation function from PHP - Copyright (c) 1997-2012 The PHP Group
+- Facebook login and session management from developers.facebook.com - Copyright 2012 Facebook, Inc."
+
+ios:framework (AWSS3.framework => ios/AWSS3.framework)
